@@ -6,6 +6,12 @@ Literatur
     http://www.loirak.com/gameboy/gbprog.php
 - Kommunikation Link-Kabel
     https://gbdev.gg8.se/wiki/articles/Serial_Data_Transfer_(Link_Cable)
+- Jede Menge Quellmaterial zum lernen und stöbern
+    https://project-awesome.org/gbdev/awesome-gbdev
+- To C or not to C
+    https://gbdev.io/to_c_or_not_to_c.html
+- Youtube für erste Schritte
+    https://www.youtube.com/watch?v=HIsWR_jLdwo
     
 Software
 
