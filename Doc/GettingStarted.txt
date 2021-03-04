@@ -10,6 +10,8 @@ Literatur
     https://project-awesome.org/gbdev/awesome-gbdev
 - To C or not to C
     https://gbdev.io/to_c_or_not_to_c.html
+- Youtube für erste Schritte
+    https://www.youtube.com/watch?v=HIsWR_jLdwo
     
 Software
 
