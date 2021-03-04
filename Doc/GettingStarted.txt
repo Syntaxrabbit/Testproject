@@ -4,6 +4,8 @@ Literatur
     https://www.gamasutra.com/blogs/DoctorLudos/20171207/311143/Making_a_Game_Boy_game_in_2017_A_quotSheep_It_Upquot_PostMortem_part_12.php
 - GameBoy Programming For Beginners
     http://www.loirak.com/gameboy/gbprog.php
+- Kommunikation Link-Kabel
+    https://gbdev.gg8.se/wiki/articles/Serial_Data_Transfer_(Link_Cable)
     
 Software
 
