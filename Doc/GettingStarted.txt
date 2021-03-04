@@ -17,3 +17,13 @@ Software
     https://github.com/gameboybenutzer/Testproject/blob/main/Tools/TileDesigner.7z
 - gbdk-music
     https://github.com/basxto/gbdk-music
+
+Ordnerstruktur
+- Testproject
+|- Doc (Dokumentation)
+|- Src (Quellcodes)
+|- Tools (in gezippter Form)
+- Tools (in entpackter Form)
+|- gbdk (Compiler)
+|- MapBuilder
+|- TileDesigner
